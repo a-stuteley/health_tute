@@ -1,3 +1,3 @@
-# stack.js
+# Health tutorial
 
-A presentation library with intuitive, scroll-based navigation.
+A presentation based around the book given
